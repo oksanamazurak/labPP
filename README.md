@@ -1,7 +1,7 @@
 # labPP
 ## Content
-* [Clone repository] (#Clone-repository)
-* [Requirements] (#Requirements)
+* [Clone repository](#Clone-repository)
+* [Requirements](#Requirements)
 
   ## Clone repository
   To clone repository use `https://github.com/oksanamazurak/labPP.git`
